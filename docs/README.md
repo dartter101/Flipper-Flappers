@@ -17,6 +17,16 @@ Step 5:
 Step 6:  
   Rename train_images folder to train  
   Rename test_images folder to test  
+  
+  At this point your folder format should look like   
+  MainDir -- (CS301_Project in this example)  
+  -->dolphins(folder)  
+  -->-->train(folder)  
+  -->-->-->(buncha images)  
+  -->-->test(folder)  
+  -->-->-->(buncha images)  
+  -->train.csv  
+    
 Step 7  
     [Open Google Colab Project](https://colab.research.google.com/drive/1l85AEJSuupMJhqmNdX5zIeQ8aFhcad5e?authuser=2#scrollTo=wi815Pl96Tzz)  
 Step 8  

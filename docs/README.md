@@ -1,15 +1,15 @@
-To run our code you will need to perform the following steps
-Step 1: 
-  [Go to the kaggle competition](https://www.kaggle.com/competitions/happy-whale-and-dolphin/data)
-  download the data to your desktop
-  Unofrtunatly the 60 GB of data is to much to download with colab and unzip inside of the drive
-Step 2: 
-  Unzip the data
-Step 3: 
-  Create a folder in your Google Drive 
-  something like CS301_Project
-Step 4:
-  Create a folder named dolphins
+To run our code you will need to perform the following steps  
+Step 1:   
+  [Go to the kaggle competition](https://www.kaggle.com/competitions/happy-whale-and-dolphin/data)  
+  download the data to your desktop  
+  Unofrtunatly the 60 GB of data is to much to download with colab and unzip inside of the drive  
+Step 2:   
+  Unzip the data   
+Step 3:   
+  Create a folder in your Google Drive   
+  something like CS301_Project  
+Step 4:  
+  Create a folder named dolphins  
 Step 5: 
   Open the unzipped folder
   Move train.csv into your main directory (CS301_Project in this example)

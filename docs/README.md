@@ -20,7 +20,7 @@ Step 6:
 Step 7  
     [Open Google Colab Project](https://colab.research.google.com/drive/1l85AEJSuupMJhqmNdX5zIeQ8aFhcad5e?authuser=2#scrollTo=wi815Pl96Tzz)  
 Step 8  
-  under ection Basic start change path to be the path to your main directory  
+  under section Basic Start change path to be the path to your main directory  
   If you need help doing this   
   -->click the play button to the code under mount drive  
   -->click the folder on teh left of the screen  

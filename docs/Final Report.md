@@ -1,7 +1,7 @@
 **Project:** *Flipper & Flapper (Dolphin ID)* [Kaggle HappyWhale](https://www.kaggle.com/competitions/happy-whale-and-dolphin)
   
 **Group members:**
-**Evan Lopaotsky Mehak Maqsood  Jamie Ching Man Leung**
+**Evan Lopaotsky, Mehak Maqsood,  Jamie Ching Man Leung**
    
 **Abstract:**
   

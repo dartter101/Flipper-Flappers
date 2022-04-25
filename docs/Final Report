@@ -1,7 +1,7 @@
 Project: Flipper & Flapper (Dolphin ID)  
 Group members:  
 Evan Lopaotsky Mehak Maqsood  Jamie Ching Man Leung    
-  
+   
 Abstract:    
   
 Our kaggle project was to create a model that is capable of predicting individual dolphins by looking at images of dolphins, or more specifically their fins, and determining whether the dolphin was a new dolphin or an already previously recorded dolphin. The idea is much like fingerprinting criminals, when a crime is committed and a fingerprint found at the scene the offending fingerprint(s) are compared to the database to see of the criminal is already on file if they are not in the database then they would be put under the label of being a new print. Our approach was to use image Classification and Linear regression with a neural network to differentiate one dolphin from another, in doing so we would then be able to say whether an image that was tested was a new dolphin or a dolphin already on file. The results of our output could accurately tell if a dolphin was a new dolphin or a previously known dolphin.

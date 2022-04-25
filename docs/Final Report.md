@@ -1,4 +1,4 @@
-**Project: *Flipper & Flapper (Dolphin ID)*
+**Project:** *Flipper & Flapper (Dolphin ID)*
   
 **Group members:**
 **Evan Lopaotsky Mehak Maqsood  Jamie Ching Man Leung**
